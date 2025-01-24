@@ -205,7 +205,7 @@ Make sure you have the following installed:
 
 6. Clone the repository:
    ```bash
-   git clone https://github.com/AsadAliEng/Edge-Optimized-ML-Inference-Engine.git
+   git clone https://github.com/AsadAliEngineer/Edge-Optimized-ML-Inference-Engine.git
    ```
 
 7. Move into the project directory:
@@ -469,8 +469,8 @@ This project is licensed under the **MIT License**. See the `LICENSE.md` file fo
 
 For questions or feedback:
 
-- GitHub: [@AsadAliEng](https://github.com/AsadAliEng)
-- Email: [asadali.cryptoeng@gmail.com](mailto:asadali.cryptoeng@gmail.com)
+- GitHub: [@AsadAliEngineer](https://github.com/AsadAliEngineer)
+- Email: [asadalieng1107@gmail.com](mailto:asadalieng1107@gmail.com)
 
 ---
 
@@ -485,13 +485,13 @@ This README package was structured for the repository **Edge-Optimized-ML-Infere
 <table>
   <tr>
     <td width="150" align="center">
-      <img src="https://github.com/AsadAliEng.png?size=160" width="120" alt="Asad Ali GitHub avatar"><br>
+      <img src="https://github.com/AsadAliEngineer.png?size=160" width="120" alt="Asad Ali GitHub avatar"><br>
       <strong>Asad Ali</strong>
     </td>
     <td>
       <strong>AI, Blockchain & Software Engineer</strong><br><br>
-      🐙 GitHub: <a href="https://github.com/AsadAliEng">@AsadAliEng</a><br>
-      📧 Email: <a href="mailto:asadali.cryptoeng@gmail.com">asadali.cryptoeng@gmail.com</a><br>
+      🐙 GitHub: <a href="https://github.com/AsadAliEngineer">@AsadAliEngineer</a><br>
+      📧 Email: <a href="mailto:asadalieng1107@gmail.com">asadalieng1107@gmail.com</a><br>
       🚀 Focus: intelligent systems, applied machine learning, AI security, Web3 products, automation, and production-oriented engineering
     </td>
   </tr>
